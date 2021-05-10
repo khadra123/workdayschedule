@@ -1,0 +1,110 @@
+
+ body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    font-size: 18px;
+    line-height: 1;
+}
+
+    /*Task text location starts*/
+    textarea{
+        border-left: 1px solid black;
+        border: none;
+        color: black;
+        background: transparent;
+        padding: 10px;
+        width: 64%;
+        resize: none;
+    }
+
+    .jumbotron{
+        text-align: center;
+        background-color: transparent;
+        border-radius: 0;
+        border-bottom: 10px solid black;
+        color: black;
+    }
+
+    .description{
+        white-space: pre-wrap;
+    }
+    /*Task text location ends*/
+
+     
+    .time-block{
+        text-align: center;
+        border-radius: 15px;
+    }
+
+    .row{
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        white-space: pre-wrap;
+        border-top: 1px solid white;
+        border-bottom: 1px solid black;
+        height: 80px;
+    }
+
+    .hour{
+        color: black;
+        background-color: white;
+        width: 18%;
+        border-top: 1px dashed black;
+    }
+
+    /*Save button icon states starts*/
+    .past{
+        background-color: #d3d3d3;
+        color: white;
+    }
+    
+    .present{
+        background-color:#ff7961;
+        color: white;
+    }
+
+    .future{
+        background-color: #3dd151;
+        color: white;
+    } 
+
+    .saveBtn{
+        color: white;
+        border-left: 1px solid black;
+        border-top-right-radius: 15px;
+        border-bottom-right-radius: 15px;
+        background-color: #0772c9;
+        width: 18%;
+        align-content: center;
+        justify-content: center;
+    }
+
+    .saveBtn i:hover{
+        font-size: 15px;
+        transition: all .3s ease-in-out;
+    }
+    /*Save button icon states ends*/
+
+/*Media queries of screeens less than 768px*/
+
+@media screen and(max-width: 768px), screen and (max-width:575px){
+
+    .row{
+        height: auto;
+    }
+
+    .saveBtn{
+        border: 0;
+        border-radius: 0.25rem;
+        height: 50px;
+    }
+
+    textarea{
+        min-height: 80px;
+        border: 0
+    }
+
+}
