@@ -90,12 +90,7 @@
 
 /*Media queries of screeens less than 768px*/
 
-@media screen and(max-width: 768px), screen and (max-width:575px){
-
-    .row{
-        height: auto;
-    }
-
+@media screen and(max-width: 768px), screen and(max-width:575px){
     .saveBtn{
         border: 0;
         border-radius: 0.25rem;
