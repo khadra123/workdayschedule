@@ -1,6 +1,6 @@
 # Workday Scheduler
 
-##Description
+# Description
 A simple apllication for scheduling your work day.
 
-##Build Uses
+# Build Uses
