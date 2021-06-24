@@ -3,7 +3,7 @@
   ---
 
   ## Description
-  undefined
+  An application where you can allocate tasks hourly on a workday scheduler.
 
   ## Table of Contents
   * [Description](#description)
