@@ -1,13 +1,40 @@
-# Workday Scheduler
+  # WorkDay scheduler
+  
+  ---
 
-## Description
-A simple apllication for scheduling your work day. Allows you to assign tasks by the hour and notifies you how many hours are left in the day. This was made to help simplify your day and organize it by the hour.
+  ## Description
+  undefined
 
-## Languages and programs used:
-* Javascript
-* CSS
-* HTML
-* JQuery
-* Bootstrap
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contribution)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
-## Functionality
+  ## Installation
+   1. Fork repo. 2. Clone repo to local. 3. Deploy to gitpages and use.
+
+  ## Usage
+  On git Pages you can update and delete tasks on the To-Do list. Make sure
+
+  ## Languages
+  JavaScript,HTML,CSS,ES6,Bootstrap,JQuery
+
+  ## License
+  MIT
+
+  [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
+  
+  ## Questions
+  Reach me out on GitHub or email with any questions you have:
+
+  Github Username: khadram123
+
+  Email: khadra.m123@gmail.com
+
+  ----
+  README was generated with ❤️ by [professional-readme-generator](https://github.com/khadra123/readme-generator)
+  
