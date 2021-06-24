@@ -1,9 +1,10 @@
-  # WorkDay scheduler
+
+  # Workday Scheduler
   
   ---
 
   ## Description
-  An application where you can allocate tasks hourly on a workday scheduler.
+  An application where you can allocated tasks hourly and delete completed tasks.
 
   ## Table of Contents
   * [Description](#description)
@@ -14,14 +15,19 @@
   * [Tests](#tests)
   * [Questions](#questions)
 
+  ## Deployed Pages
+  https://khadra123.github.io/workdayschedule/
+
   ## Installation
-   1. Fork repo. 2. Clone repo to local. 3. Deploy to gitpages and use.
+  1. Clone the repo to your local
 
   ## Usage
-  Using Git Pages you can update and delete tasks on the scheduler. 
+  Use deployed site to allocate tasks and delete tasks
 
   ## Languages
-  JavaScript,HTML,CSS,ES6,Bootstrap,JQuery
+  JavaScript,HTML,CSS,ES6,jQuery
+
+  ## Screenshot 
 
   ## License
   MIT
